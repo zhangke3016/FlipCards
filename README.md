@@ -8,7 +8,7 @@
 
 ![FlipCards](gif/screen.gif)
 
----
+
 ### Usage
 ```
 animation = new FlipCardAnimation(0, degree, width, height);
